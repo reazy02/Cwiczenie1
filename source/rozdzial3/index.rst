@@ -1,8 +1,8 @@
 Przyszłość technologii w samochodach
 ====================================
 
-Nowoczesne napędy — ekologia w motoryzacji
-------------------------------------------
+Nowoczesne napędy oraz ekologia w motoryzacji
+---------------------------------------------
 
 Ostatnie lata przyniosły prawdziwą rewolucję w motoryzacji. Coraz
 większy nacisk kładzie się na ochronę środowiska i redukcję emisji CO2,

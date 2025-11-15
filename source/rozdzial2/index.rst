@@ -5,10 +5,10 @@ Nowoczesne silniki są znacznie bardziej zaawansowane. Zastosowanie
 turbosprężarek, systemów wtrysku bezpośredniego, komputerowego
 sterowania zapłonem i czujników tlenu pozwala na zwiększenie mocy przy
 jednoczesnym zmniejszeniu zużycia paliwa i emisji spalin. Coraz częściej
-spotyka się również systemy start-stop, które automatycznie wyłączają
+spotyka się również systemy start i stop, które automatycznie wyłączają
 silnik podczas postoju, co dodatkowo oszczędza paliwo.
 
-Rodzaje silników spalinowych - Silnik wolnossący 
+Rodzaje silników spalinowych - silnik wolnossący 
 ------------------------------------------------
 
 Silnik wolnossący to konstrukcja, w której powietrze zasysane do

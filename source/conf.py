@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Automotive - Jak działa samochód'
+project = 'Automotive - Historia i przyszłość'
 copyright = '2025, Posłuszny'
 author = 'Posłuszny'
 release = '1.0.0'
@@ -24,7 +24,7 @@ language = 'pl'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'alabaster'
 html_static_path = ['_static']
 latex_engine = 'pdflatex'
 
@@ -33,15 +33,10 @@ latex_elements = {
     'pointsize': '11pt',
     'classoptions': ',oneside',
     'babel': r'\usepackage[polish]{babel}',
-    'preamble': r'''
-\usepackage{float}
-\floatplacement{figure}{H}
-\usepackage{titlesec}
-\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
-''',
+    'preamble': r'\setlength{\headheight}{14pt}',
 }
 
 latex_documents = [
-    ('index', 'automotive_jakdzialasamochod.tex', 'Automotive - Jak działa samochód', 'Bartłomiej Posłuszny', 'report'),
+    ('index', 'automotive_historiaiprzyszlosc.tex', 'Automotive - Historia i przyszłość', 'Bartłomiej Posłuszny', 'report'),
 ]
 

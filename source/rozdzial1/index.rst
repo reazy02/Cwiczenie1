@@ -56,7 +56,7 @@ obrotowy. Ten ruch przekazywany jest przez skrzynię biegów i układ
 przeniesienia napędu do kół, co powoduje, że pojazd zaczyna się
 poruszać.
 
-Serce samochodu - Silnik spalinowy
+Serce samochodu - silnik spalinowy
 ----------------------------------
 
 Silnik spalinowy to serce tradycyjnego samochodu. Najczęściej spotykane
