@@ -1,4 +1,4 @@
-# Automotive - Jak działa samochód
+# Automotive - Historia i przyszłość 
 1. Historia początków samochodów
   - Pierwszy samochód oraz zasady działania i nowoczesnie technologie
   - Podstawowe działania samochodu
