@@ -1,6 +1,9 @@
 Podstawy działania samochodu
 ============================
 
+Współczesne silniki
+-------------------
+
 Nowoczesne silniki są znacznie bardziej zaawansowane. Zastosowanie
 turbosprężarek, systemów wtrysku bezpośredniego, komputerowego
 sterowania zapłonem i czujników tlenu pozwala na zwiększenie mocy przy
@@ -83,3 +86,30 @@ Poza tym samochody są wyposażone w liczne systemy wspomagania kierowcy,
 takie jak automatyczne hamowanie awaryjne, utrzymanie pasa ruchu,
 czy chociaż rozpoznawanie znaków drogowych. Wraz z rozwojem
 technologii coraz bliżej jesteśmy aut które jeżdzą za nas.
+
+W skrócie współczesne samochody posiadają:
+
+- Silnik
+  
+  - Spalinowy lub elektryczny generujący moc.
+
+- Nadwozie
+
+  - Główną konstrukcję samochodu w tym przestrzeń pasażerską i bagażową
+
+- Układ napędowy
+
+  - Przekażujący moment obrotowy z wału korbowego na koła pojazdu
+
+- Układu kierowniczego i zawieszenia
+
+  - Umożliwiający zmianę kierunku jazdy
+
+- Układ hamulcowy 
+
+  - Dla bezpieczeństwa 
+
+- Elektronike i komputery
+
+  - Rózne wspomagania, systemy oświetlenia i podzespoły
+

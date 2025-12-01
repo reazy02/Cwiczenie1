@@ -12,13 +12,13 @@ silnikiem elektrycznym, który pobiera energię z akumulatorów
 litowo-jonowych. Energia ta napędza koła bezpośrednio, dzięki czemu
 układ napędowy jest prostszy i bardziej efektywny.
 
-.. figure:: /_static/obrazek4.jpg
+.. figure:: /Media/obrazek4.jpg
    :alt: Tesla Model S
    :width: 500px
    :height: 350px
    :align: center
 
-   Fot. 4. Tesla Model S
+   Fot. 4. Tesla Model S, Źródło: Google grafika 2025
 
 Zaletą samochodów elektrycznych jest ich wysoka wyjdaność, cicha praca
 i brak lokalnej emisji spalin. Wadą natomiast jest ograniczony zasięg i długi
@@ -74,11 +74,11 @@ jak działa samochód oraz jego podzespołów pozwala nam zrozumieć
 jak inżynierowie łączą naukę, technikę i innowacje, aby
 tworzyć coraz doskonalsze bijące kolejne rekordy maszyny.
 
-.. figure:: /_static/obrazek5.jpeg
+.. figure:: /Media/obrazek5.jpeg
    :alt: Auto przyszłości
-   :width: 400px
-   :height: 250px
+   :width: 500px
+   :height: 350px
    :align: center
 
-   Fot. 6. Google grafika 2025
+   Fot. 6. Mercedes, Źródło: Google grafika 2025
 

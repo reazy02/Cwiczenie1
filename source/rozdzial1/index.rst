@@ -14,7 +14,7 @@ samochód, należy przyjrzeć się zarówno podstawowym zasadom jego
 działania, jak i nowoczesnym rozwiązaniom oraz technologiom, które bieżąco zmieniają
 motoryzacje.
 
-.. figure:: /_static/obrazek2.jpg
+.. figure:: /Media/obrazek2.jpg
    :alt: Merc
    :width: 400px
    :height: 350px
@@ -27,13 +27,13 @@ Przedstawiony na fotografii Patentwagen numer 1 był produkowanego od
 wyprodukowanego przez Carla Friedricha Benza. Pojazd osiągał prędkość
 maksymalną ok. 16 km/h przy mocy około 1 KM.
 
-.. figure:: /_static/McLaren_F1.jpg
+.. figure:: /Media/McLaren_F1.jpg
    :alt: McLaren F1
    :width: 500px
    :height: 350px
    :align: center
 
-   Fot. 2. McLaren F1 — Źródło: Wikipedia 2025
+   Fot. 2. McLaren F1, Źródło: Wikipedia 2025
 
 Obecnie samochody dzięki nowym technikom wyewoluowały w o wiele szybsze
 i posiadające mocniejsze silniki maszyny zdolne do przekraczania
@@ -68,10 +68,10 @@ przez tłok. W kolejnym etapie mieszanka zostaje zapalona przez iskrę ze
 w dół. W ostatnim etapie spaliny są usuwane z cylindra przez zawory
 wydechowe.
 
-.. figure:: /_static/obrazek3.jpg
+.. figure:: /Media/obrazek3.jpg
    :alt: Silnik spalinowy
    :width: 500px
    :height: 350px
    :align: center
 
-   Fot. 3. Silnik spalinowy — Źródło: Google grafika 2025
+   Fot. 3. Silnik spalinowy, Źródło: Google grafika 2025
