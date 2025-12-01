@@ -4,6 +4,7 @@
   - Podstawowe działania samochodu
   - Serce samocohdu - silnik spalinowy
 2. Podstawy działania samochodu
+  - Współczesne silniki
   - Rodzaje silników spalinowych - silnik wolnossący
   - Układ napędowy i przenisienie mocy w samochodach
   - Układ kierowniczy i zawieszenie
